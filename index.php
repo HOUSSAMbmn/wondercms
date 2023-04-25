@@ -459,7 +459,7 @@ class Wcms
 					'title' => 'Home',
 					'keywords' => 'Enter, page, keywords, for, search, engines',
 					'description' => 'A page description is also good for search engines.',
-					'content' => '<h1>Welcome to your website123</h1>
+					'content' => '<h1>hello world</h1>
 
 <p>Your password for editing everything is: <b>' . $password . '</b></p>
 
