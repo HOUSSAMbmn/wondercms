@@ -463,7 +463,7 @@ class Wcms
 
 <p>Your password for editing everything is: <b>' . $password . '</b></p>
 
-<p><a href="' . self::url('loginURL') . '" class="button">Click here to login</a></p>
+
 
 <p>To install an awesome editor, open Settings/Plugins and click Install Summernote.</p>',
 					self::DB_PAGES_SUBPAGE_KEY => new stdClass()
